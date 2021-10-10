@@ -1,6 +1,8 @@
 # chatbot_telegram
 Bot usando Node.js y la API de telegram
 
+![image](https://user-images.githubusercontent.com/91923931/136706423-1679900e-23a6-4730-85d0-047f71fcc194.png)
+
 Creador: @stevenbello_
 
 Empieza por instalar node.js en tu pc desde el navegador.
