@@ -11,6 +11,7 @@ En tu CMD ingresa el comando: ' node --version ' para confirmar que ya este inst
 Abre tu IDE preferido y el codigo de la carpeta bot.
 
 // comandos en CLI que te ayudarán a que todo vaya de maravilla: 
+
 npm init --y = para crear package.json
 
 npm i telegraf = para instalar depencencias telegraf
