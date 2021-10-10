@@ -13,18 +13,24 @@ Abre tu IDE preferido y ya corre este código.
 //TELEGRAM TOKEN: 'aqui-va-tu-token-de-bot-de-telegram'
 
 // comandos en CLI: 
-// npm init --y = para crear package.json
-// npm i telegraf = para instalar depencencias telegraf
-// node nombre-de-tu-bot.js = comando para activar servidor en modo escucha
-// npm i nodemon -D = para instalar nodemon, y usar dependencia para escucha automatica en lugar de node bot.js
-// npm run dev = para iniciar nodemon
+npm init --y = para crear package.json
+
+npm i telegraf = para instalar depencencias telegraf
+
+node nombre-de-tu-bot.js = comando para activar servidor en modo escucha
+
+npm i nodemon -D = para instalar nodemon, y usar dependencia para escucha automatica en lugar de node bot.js
+
+npm run dev = para iniciar nodemon
 
 // -----------------------------------------------------------VERSION 2.0
 
 // guardar libreria en la variable Telegraf
+
 const { Telegraf, Markup } = require('telegraf')
 
 // guardamos el bot en una variable y agregamos el token de fatherbot
+
 const bot = new Telegraf('aqui-va-tu-token-de-bot-de-telegram')
 
 bot.use(Telegraf.log())
