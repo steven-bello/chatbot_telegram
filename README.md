@@ -10,6 +10,8 @@ https://nodejs.org/en/
 
 En tu CMD ingresa el comando: ' node --version ' para confirmar que ya este instalado node en tu pc.
 
+En la app de telegram genera tu token de bot usando @botfather-
+
 Abre tu IDE preferido y el codigo de la carpeta bot.
 
 // comandos en CLI que te ayudarán a que todo vaya de maravilla: 
